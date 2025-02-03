@@ -299,8 +299,7 @@ Contributions are welcome! 🎉 Feel free to submit a Pull Request to improve Sc
 - **🔧 Customizable Scraping Configurations**: Adjust settings dynamically based on needs.
 - **🌐 Comprehensive URL Handling**: Supports both relative and absolute URLs.
 - **📦 Modular Architecture**: Ensures clear separation of concerns for maintainability.
-=======
->>>>>>> 5835e9dc39c6cbcb740339d25628f3e7716539e6
+
 
 ## 📥 Installation
 
