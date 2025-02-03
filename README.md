@@ -14,7 +14,6 @@ ScrapeGen 🚀 is a powerful Python library that combines web scraping with AI-d
 - **🔧 Customizable Scraping Configurations**: Adjust settings dynamically based on needs
 - **🌐 Comprehensive URL Handling**: Supports both relative and absolute URLs
 - **📦 Modular Architecture**: Ensures clear separation of concerns for maintainability
-<<<<<<< HEAD
 
 ## 📥 Installation
 
