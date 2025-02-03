@@ -1,6 +1,7 @@
 # ScrapeGen
 
-<img src="https://github.com/user-attachments/assets/2f458a05-66f9-47a4-bc40-6069e3c9e849" alt="Logo" width="80" height="80">
+<img src="https://github.com/user-attachments/assets/b5d236d6-185c-49b0-9272-150dc4efb2c4" alt="Logo" width="80" height="80">
+
 
 ScrapeGen 🚀 is a powerful Python library that combines web scraping with AI-driven data extraction to collect and structure information from websites efficiently. It leverages Google's Gemini models for intelligent data processing and provides a flexible, configurable framework for web scraping operations.
 
